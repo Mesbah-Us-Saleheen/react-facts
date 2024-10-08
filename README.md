@@ -4,4 +4,4 @@ This is a simple static page designed with React especially built for small devi
 
 
 # Live Demo
-You can see the live demo here: - @https://mesbah-us-saleheen.github.io/react-facts/
+You can see the live demo here: -https://mesbah-us-saleheen.github.io/react-facts/
