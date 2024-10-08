@@ -1,8 +1,7 @@
-# React + Vite
+# Static Page Design
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple static page designed with React especially built for small devices like mobiles, tablets etc. There is a toggle button in the Navbar to toggle between dark and light mode.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Live Demo
+You can see the live demo here: - @https://mesbah-us-saleheen.github.io/react-facts/
